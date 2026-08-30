@@ -8,8 +8,8 @@ The project follows a complete data analytics workflow:
 
 The objective is to transform raw customer transaction data into actionable insights that can support data-driven decision-making for retail businesses.
 
-Here is the complete overlook of the project
-	["Project Report"](https://www.example.com
+### Here is the complete overlook of the project 
+### [Project Report on Customer Shopping Behavior Analysis](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/Project%20Report%20Customer%20Shopping%20Behavior%20Analysis.pdf)
 ---
 
 # 🎯 Business Objectives
@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 # 📂 Dataset Information
 
-The dataset contains customer transaction records from different product categories.
+The dataset contains customer transaction records from different product categories. Here is the dataset 	[Dataset](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/customer_shopping_behavior.csv)
 
 ### Dataset Summary
 
@@ -130,6 +130,7 @@ Created additional analytical features:
 - Compared discount_applied and promo_code_used variables.
 - Removed redundant information before database analysis.
 
+### Here is the complete python analysis file:  	[Python Analysis File](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/customer_behavior_analysis.ipynb)
 ---
 
 # 📊 SQL Business Analysis
@@ -236,9 +237,10 @@ Categories included:
 
 # 📈 Power BI Dashboard
 
-An interactive dashboard was developed to visualize key business metrics.
+An interactive dashboard was developed to visualize key business metrics. Here is the Dashboard presentation file 	[Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/customer%20behavior%20dashboard.pbix)
 
 ## Dashboard Features
+
 
 ### KPI Metrics
 
@@ -321,11 +323,12 @@ Focus marketing efforts on:
 
 ---
 
-# 📁 Repository Structure
 # 📌 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow by combining Python, SQL, and Power BI to convert raw retail transaction data into meaningful business insights.
 
 The analysis helps organizations understand customer behavior, improve marketing decisions, optimize product strategies, and increase customer retention.
+
+### Here is a small presentation of overall project: 	[Presentation](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/Customer-Shopping-Behavior-Analysis.pptx)
 
 ---
