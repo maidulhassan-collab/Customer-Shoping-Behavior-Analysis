@@ -8,6 +8,8 @@ The project follows a complete data analytics workflow:
 
 The objective is to transform raw customer transaction data into actionable insights that can support data-driven decision-making for retail businesses.
 
+Here is the complete overlook of the project
+	["Project Report"](https://www.example.com
 ---
 
 # 🎯 Business Objectives
