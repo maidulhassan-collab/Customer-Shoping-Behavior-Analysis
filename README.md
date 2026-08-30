@@ -141,6 +141,8 @@ PostgreSQL was used to answer important business questions.
 
 Compared total revenue contribution between male and female customers.
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/revenue%20by%20gender.png)
+
 *Insight:*
 The analysis helps identify customer groups contributing more revenue and supports targeted marketing strategies.
 
@@ -152,6 +154,8 @@ Identified customers who:
 
 - Used discounts
 - Still spent above the average purchase amount
+
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/High-Spending%20Discount%20Users.png)
 
 *Business Value:*
 Helps understand whether discounts are attracting valuable customers.
@@ -170,6 +174,7 @@ Top-rated products included:
 - Hat
 - Skirt
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Top%20Rated%20Products.png)
 ---
 
 ## 4. Shipping Type Analysis
@@ -179,6 +184,7 @@ Compared average purchase amounts between:
 - Standard Shipping
 - Express Shipping
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Picture5.jpg)
 ---
 
 ## 5. Subscription Analysis
@@ -193,6 +199,7 @@ Based on:
 - Average spending
 - Total revenue contribution
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Subscription%20Analysis.jpg)
 ---
 
 ## 6. Customer Segmentation
@@ -208,17 +215,22 @@ Customers with previous purchase activity.
 ### 🔵 New Customers
 Customers with limited purchase history.
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Customer%20Segmentation.jpg)
 ---
 
 ## 7. Repeat Buyer Analysis
 
 Analyzed whether customers with higher purchase frequency are more likely to subscribe.
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Repeat%20Buyers%20Analysis.jpg)
+
 ---
 
 ## 8. Revenue by Age Group
 
 Analyzed revenue contribution across different customer age groups.
+
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Age%20Group%20Revenue.png)
 
 ---
 
@@ -233,6 +245,7 @@ Categories included:
 - Footwear
 - Outerwear
 
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Product%20Category%20Analysis.jpg)
 ---
 
 # 📈 Power BI Dashboard
@@ -241,6 +254,7 @@ An interactive dashboard was developed to visualize key business metrics. Here i
 
 ## Dashboard Features
 
+![Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Screenshot%202026-07-29%20015523.png)
 
 ### KPI Metrics
 
