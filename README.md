@@ -8,6 +8,8 @@ The project follows a complete data analytics workflow:
 
 The objective is to transform raw customer transaction data into actionable insights that can support data-driven decision-making for retail businesses.
 
+![project look](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/presentation.gif.gif)
+
 ### Here is the complete overlook of the project 
 ### [Project Report on Customer Shopping Behavior Analysis](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/Project%20Report%20Customer%20Shopping%20Behavior%20Analysis.pdf)
 ---
@@ -250,11 +252,11 @@ Categories included:
 
 # 📈 Power BI Dashboard
 
-An interactive dashboard was developed to visualize key business metrics. Here is the Dashboard presentation file 	[Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/customer%20behavior%20dashboard.pbix)
+An interactive dashboard was developed to visualize key business metrics. Here is the Dashboard presentation file 	[Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/dashboard.gif.gif)
 
 ## Dashboard Features
 
-![Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Screenshot%202026-07-29%20015523.png)
+![Dashboard](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/dashboard.gif.gif)
 
 ### KPI Metrics
 
