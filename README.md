@@ -1,3 +1,12 @@
+# Customer Shopping Behavior Analysis
+
+## Customer Insights, Purchase Patterns & Business Intelligence Dashboard
+
+![Project Type](https://img.shields.io/badge/Project-Data%20Analytics-blue)
+![Domain](https://img.shields.io/badge/Domain-Customer%20Analytics-green)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20PostgreSQL%20%7C%20Power%20BI-orange)
+
+---
 ## 📌 Project Overview
 
 This project focuses on analyzing customer shopping behavior using transactional retail data to uncover meaningful business insights related to customer spending patterns, product preferences, purchasing behavior, subscription trends, and customer segmentation.
@@ -186,7 +195,7 @@ Compared average purchase amounts between:
 - Standard Shipping
 - Express Shipping
 
-![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/Picture5.jpg)
+![](https://github.com/maidulhassan-collab/Customer-Shoping-Behavior-Analysis/blob/main/project%20screenshot/shipment.jpg)
 ---
 
 ## 5. Subscription Analysis
